@@ -80,5 +80,69 @@
     "transportStacks": [
       "tcp"
     ]
+  },
+  {
+    "id": "v0.41",
+    "implementation": "go-libp2p",
+    "transportStacks": [
+      "tcp",
+      "quic-v1"
+    ]
+  },
+  {
+    "id": "v0.42",
+    "implementation": "go-libp2p",
+    "transportStacks": [
+      "tcp",
+      "quic-v1"
+    ]
+  },
+  {
+    "id": "v0.43",
+    "implementation": "go-libp2p",
+    "transportStacks": [
+      "tcp",
+      "quic-v1"
+    ]
+  },
+  {
+    "id": "v0.44",
+    "implementation": "go-libp2p",
+    "transportStacks": [
+      "tcp",
+      "quic-v1"
+    ]
+  },
+  {
+    "id": "v0.45",
+    "implementation": "go-libp2p",
+    "transportStacks": [
+      "tcp",
+      "quic-v1"
+    ]
+  },
+  {
+    "id": "v0.46",
+    "implementation": "go-libp2p",
+    "transportStacks": [
+      "tcp",
+      "quic-v1"
+    ]
+  },
+  {
+    "id": "v0.47",
+    "implementation": "go-libp2p",
+    "transportStacks": [
+      "tcp",
+      "quic-v1"
+    ]
+  },
+  {
+    "id": "v0.48",
+    "implementation": "go-libp2p",
+    "transportStacks": [
+      "tcp",
+      "quic-v1"
+    ]
   }
 ]
